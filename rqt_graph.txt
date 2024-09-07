@@ -1,0 +1,7 @@
+ROS(robot operating system) is open-source robotics middle ,flexible framework that you can write c++ and python and it provides tools and libraries to simplify the problem
+importance :
+1-it reduces costs
+2-Accelerates develpoment
+3- increase collaboration 
+4- more complex project that needs multiple sensors
+5- independent blocks that can communicate with each other 
